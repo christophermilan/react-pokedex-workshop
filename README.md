@@ -1,3 +1,3 @@
 # react-pokedex-workshop
-Created with CodeSandbox
+Created with CodeSandbox  
 Hackathon 2020 workshop
